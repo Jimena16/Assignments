@@ -15,5 +15,8 @@
     "assign1"
   ],
   "author": "Jimena Noa Guevara",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
 }
